@@ -5,7 +5,7 @@ education:
   - course: PhD in Statistical Ecology
     institution: University of Aberdeen
     year: 2013
-  - course: MRes in Ecology & Environmental Sustainability
+  - course: MRes in Ecology 
     institution: University of Aberdeen
     year: 2009
   - course: BSc in Biological Sciences
@@ -24,15 +24,15 @@ organizations:
   url: https://www.st-andrews.ac.uk/mathematics-statistics/
 role: Reader of Statistical Ecology
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chrissuthy/
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=PZhqA9UAAAAJ&hl=en/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Chris-Sutherland/
 - icon: github
   icon_pack: fab
   link: https://github.com/chrissuthy/
