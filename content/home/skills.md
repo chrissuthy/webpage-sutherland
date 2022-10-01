@@ -28,6 +28,8 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+active: false
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

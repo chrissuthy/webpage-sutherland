@@ -1,51 +1,46 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include population dynamics, dispersal, applied ecology and conservation, and statistical ecology.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Statistical Ecology
+    institution: University of Aberdeen
+    year: 2013
+  - course: MRes in Ecology & Environmental Sustainability
+    institution: University of Aberdeen
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Biological Sciences
+    institution: University of Brighton
     year: 2008
-email: ""
-first_name: Nelson
+email: css6@st-andrews.ac.uk
+first_name: Chris
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Bighetti
+- Population Ecology
+- Spatial Ecology
+- Statistical Ecology
+last_name: Sutherland
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of St Andrews
+  url: https://www.st-andrews.ac.uk/mathematics-statistics/
+role: Reader of Statistical Ecology
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/chrissuthy/
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=PZhqA9UAAAAJ&hl=en/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/chrissuthy/
 superuser: true
-title: Nelson Bighetti
+title: Chris Sutherland
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Reader of statistical ecology in the Center for Research into Ecological and Environmental Modelling (CREEM) at the University of St Andrews. My research focuses on understanding the spatial process that give rise to spatio-temporal ecological dynamics. I do this by developing biologically realistic statistical models and applying them to data collected on individuals, populations and communities. Ultimately, I'm motivated solving real management and conservation problems using ecological theory and quantitative tools.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
